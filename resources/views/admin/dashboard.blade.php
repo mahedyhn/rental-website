@@ -37,7 +37,7 @@
         </div>
     </div>
 </x-app-layout>
-২) ইউজার লিস্ট দেখানোর ভিউ: নতুন ফাইল তৈরি করুন: resources/views/admin/users/index.blade.php
+
 
 HTML
 
