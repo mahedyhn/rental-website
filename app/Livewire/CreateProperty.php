@@ -40,7 +40,7 @@ class CreateProperty extends Component
 
         session()->flash('message', 'Property successfully added.');
 
-        // ফর্ম রিসেট করুন
+        
         $this->reset();
     }
 
